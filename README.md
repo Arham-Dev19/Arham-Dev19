@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Syed Arham
-- 👀 I’m interested in Coding , Marketing , Video Editing , etc.
+- 👀 I’m interested in Everything.
 - 🌱 I’m currently learning Web Development from Aptech.
 - 📫 How to reach me syedarham.dev123@gmail.com
   
