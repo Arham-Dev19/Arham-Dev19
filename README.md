@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Syed Arham
-- 👀 I’m interested in Everything.
-- 🌱 I’m currently learning Web Development from Aptech.
+- 👀 I’m interested in Coding , Editing , Content Creation and much more.....
+- 🌱 I’m currently learning Full Stack Development from Aptech.
 - 📫 How to reach me syedarham.dev123@gmail.com
   
 
